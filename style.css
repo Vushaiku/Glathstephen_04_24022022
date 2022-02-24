@@ -1072,9 +1072,19 @@ blockquote
     margin-top: 50px;
 }
 
+#map 
+{
+    margin-top: 100px;
+    height: 400px;
+    /* The height is 400 pixels */
+    width: 60%;
+    /* The width is the width of the web page */
+  }
+
 /* MODIF CLASS EXISTANCE */
 
-.social a
+.test
 {
-
+    display: flex;
+    justify-content: start;
 }
